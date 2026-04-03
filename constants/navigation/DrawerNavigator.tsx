@@ -1,7 +1,7 @@
 import { Ionicons } from '@expo/vector-icons';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import React from 'react';
-import HomeScreen from '../app/index'; // SESUAIKAN PATH
+import HomeScreen from '../app/index';
 import CustomDrawer from '../components/CustomDrawer';
 import { useFajarState } from '../constants/FajarChresty_77097_Context';
 
